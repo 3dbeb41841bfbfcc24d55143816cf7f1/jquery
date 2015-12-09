@@ -1,3 +1,13 @@
+---
+title: Intro To jQuery
+type: lesson
+duration: "1:25"
+authors:
+    creators: Gerry Mathe (LON), Elie Schoppik (SF)
+    editors: Marc Wright (ATL)
+competencies: Front-end intro
+---
+
 # Intro To jQuery
 
 ### Objectives
