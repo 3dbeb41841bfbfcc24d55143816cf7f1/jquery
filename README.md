@@ -324,6 +324,9 @@ $('img').show()
 
 - Now try some of the other examples we've gone over in the Chrome REPL and see what happens to the Reddit.com website. Remember, this is your laboratory — your chance to experiment and learn. Make use of it.
 
+## Exercises
+[Jedi Academy](https://github.com/ATL-WDI-Exercises/jedi-javascript-jquery)
+
 ## Conclusion
 
 - jQuery makes JavaScript super friendly and easy to write. a lot of websites are using jquery, soon you will too.  Remember that it's always good to know how to use what is called vanilla JavaScript, or JavaScript without a library.
