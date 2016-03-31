@@ -30,10 +30,20 @@ competencies: Front-end intro
 #### What is jQuery?
 jQuery is a 3rd-party library that is intended to make front-end development tasks — particularly those involving DOM selection and manipulation — easier, faster, and more fun.
 
-##### But wait, what do we mean by 'library'?
-We've already seen that we can make our jobs easier and faster by using Node modules (AKA libraries) in our apps.
+### Javascript library
+What is a library?
+- Q: Has anybody used a JS library before?
+- A collection of Javascript functions and methods that make writing Javascript an easier, smoother and ultimately shorter experience.
+- Under the hood, all Javascript libraries are written using Javascript. So technically, there is nothing you can do using a library that can't already be done using Vanilla JS.
+- There are tons of them: [https://www.javascripting.com/](https://www.javascripting.com/)
+  - Some suited for particular uses like data visualization(D3.js), 3D imaging (Three.js), charts (Chart.js), autocomplete functionality (Typeahead.js) and many more...
 
-**A `library`** is just a collection of reusable methods that serve a particular purpose.
+Not the same thing as a Javascript framework.
+- Not only provides tools like a library does, but also defines the architecture of your code (e.g., syntax, folder structure). Basically, a set of rules you have to follow.
+- Examples: AngularJS, Ember.js.
+
+
+Sometimes "library" and "framework" are used interchangeably, but they are not the same. The difference will be more apparent as you get some experience with both as the course progresses.
 
 
 #### So, as a library, what does jQuery offer us?
