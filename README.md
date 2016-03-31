@@ -89,7 +89,7 @@ If you've visited code.jquery.com, you'll see that there are two major versions 
 
 ## DOM manipulation with jQuery - Intro (40 mins)
 
-Before we get into jQuery, let's just think about how we would perform the following tasks:
+**YOU DO - THINK, PAIR, SHARE** Before we get into jQuery, let's just think about how we would perform the following tasks:
   - `select` a DIV and change it's content
   - `append` a new DIV with some content to a web page
   - `handle` forms where users want to dynamically add elements to the page
