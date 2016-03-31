@@ -327,12 +327,9 @@ var newHomes = [
 - It always helps to pseudocode (write the major coding steps in English).
 - You can take a home from the beginning or end of the array - your call.
 
-### Extra Challenge
+### Bonus Challenges
 
 - If you have time, include a check for there being no more homes in the array to add and disable the _Add Home_ button.
-
-## Bonus Lab
-
 - Add a button, that when clicked, restore all previously removed homes and appends them to the bottom of the table.
 
   Hint: Take a look at the "Removing Elements" section in [these docs](http://learn.jquery.com/using-jquery-core/manipulating-elements/).
