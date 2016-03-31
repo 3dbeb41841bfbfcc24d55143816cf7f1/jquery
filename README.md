@@ -56,7 +56,7 @@ jQuery helps us manipulate the DOM, allowing us to perform complex manipulations
 jQuery is a client side library, which means we need to include it in our HTML. To do this, we have two options:
 
 - Reference Directly from a server: 
-	- jQuery's website (http://code.jquery.com/) `<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>`
+	- [jQuery's website](http://code.jquery.com/) `<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>`
 	- From a CDN (content delivery network) like [CDNJS](https://cdnjs.com/) or [Google Hosted Libraries](https://developers.google.com/speed/libraries/)  `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>`
 
 - Download a copy of jQuery to host on your own server:
