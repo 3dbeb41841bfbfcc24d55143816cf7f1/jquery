@@ -1,6 +1,7 @@
 # Intermediate jQuery - Events and Such
 
-Learning Objectives<br>&nbsp;<small>Students will be able to:</small>
+###Learning Objectives
+Students will be able to:
 - Use jQuery to add & remove classes
 - Use jQuery to add new elements
 - Use jQuery to modify attributes
@@ -335,6 +336,9 @@ var newHomes = [
 - Add a button, that when clicked, restore all previously removed homes and appends them to the bottom of the table.
 
   Hint: Take a look at the "Removing Elements" section in [these docs](http://learn.jquery.com/using-jquery-core/manipulating-elements/).
+
+## Homework
+Check out this [Bill Murray events exercise](https://github.com/ATL-WDI-Exercises/jquery/blob/master/murray.md).
 
 ## References
 
