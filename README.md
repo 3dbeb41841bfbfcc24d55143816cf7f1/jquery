@@ -48,7 +48,7 @@ Sometimes "library" and "framework" are used interchangeably, but they are not t
 
 #### So, as a library, what does jQuery offer us?
 
-jQuery helps us manipulate the DOM, allowing us to perform complex manipulations using less code with less hassle.  jQuery's syntax was developed to mimic CSS selector syntax, making code easier to develop, read, and manage; also, the syntax is more concise, and jQuery solves many cross-browser compatibility issues for us.
+jQuery helps us manipulate the DOM, allowing us to perform complex manipulations using less code with less hassle.  jQuery's syntax was developed to mimic CSS selector syntax, making code easier to develop, read, and manage. Also, the syntax is more concise, and jQuery solves many cross-browser compatibility issues for us.
 
 ## Using jQuery - Demo (5 mins)
 
