@@ -1,14 +1,12 @@
-![](https://www.drupal.org/files/images/OQAAAI1PPrJY0nBALB7mkvju3mkQXqLmzMhxEjeb4gp8aujEUQcLfLyy-Sn4gZdkAas6-k8eYbQlGDE-GCjKfF5gIrUA15jOjFfLRv77VBd5t-WfZURdP9V3PdmT.png)
-# Intermediate jQuery 
+# Intermediate jQuery - Events and Such
 
-| Learning Objectives<br>&nbsp;<small>Students will be able to:</small>
-| :---
-| Use jQuery to add & remove classes
-| Use jQuery to add new elements
-| Use jQuery to modify attributes
-| Use jQuery to add and remove DOM elements
-| Bind to events with jQuery
-| Use jQuery to perform simple animations
+Learning Objectives<br>&nbsp;<small>Students will be able to:</small>
+- Use jQuery to add & remove classes
+- Use jQuery to add new elements
+- Use jQuery to modify attributes
+- Use jQuery to add and remove DOM elements
+- Bind to events with jQuery
+- Use jQuery to perform simple animations
 
 ## Roadmap
 
