@@ -246,10 +246,9 @@ This is possible courtesy of something known as _event bubbling_, implemented in
 
 Doesn't this like a sound perfect approach for our _Remove_ buttons on each home? One event listener, regardless of how many homes in our table?! One event listener for all of the current rows in our table now, and for ones that we add later?! Yes, thanks to event delegation!
 
-We need to decide which ancestor element to use.<br>
-__Let's identify the ancestor elements of our `<tr>` tags__
+We need to decide which ancestor element to use.
 
-<br><br><br>
+__Let's identify the ancestor elements of our `<tr>` tags__
 
 Any ancestor element would work, but as they say, closer is usually better (actually, I've never heard anyone say that before).
 
