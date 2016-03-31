@@ -55,18 +55,13 @@ jQuery helps us manipulate the DOM, allowing us to perform complex manipulations
 #### Installation
 jQuery is a client side library, which means we need to include it in our HTML. To do this, we have two options:
 
-1. Reference jQuery from a server on the internet:
+- Reference Directly from a server: 
+	- jQuery's website (http://code.jquery.com/) `<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>`
+	- From a CDN (content delivery network) like [CDNJS](https://cdnjs.com/) or [Google Hosted Libraries](https://developers.google.com/speed/libraries/)  `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>`
 
-2. Directly from jQuery's website (http://code.jquery.com/)
-`<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>`
-From a CDN (content delivery network) like [CDNJS](https://cdnjs.com/) or [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
+- Download a copy of jQuery to host on your own server:
 
-
-`<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>`
-
-3. Download a copy of jQuery to host on your own server:
-
-[CDNJS](http://www.cdnjs.com), [Google Hosted Libraries](https://developers.google.com/speed/libraries/), and the [jQuery site](http://www.jquery.com) will all allow you to download a copy of jQuery to include in your projects.
+	- [CDNJS](http://www.cdnjs.com), [Google Hosted Libraries](https://developers.google.com/speed/libraries/), and the [jQuery site](http://www.jquery.com) will all allow you to download a copy of jQuery to include in your projects.
 
 #### What's with the 'min.js' in the name of the jQuery file?
 
