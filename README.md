@@ -148,7 +148,7 @@ Now the code above isn't too hard to deal with, but even so, in jQuery, this is 
 $('#myDiv').html("Goodbye world!");
 ```
 
-See it in action [here](http://jsbin.com/rirumatozu/4/edit?html,js,output)
+See it in action [here](http://jsbin.com/hopoxo/edit?html,js,output)
 
 If we wanted to **save our selection as a jQuery object**, the code would look like this instead:
 
@@ -161,7 +161,7 @@ var $myDiv = $('#myDiv');
 - Then we use our jQuery object to perform our task
 
 ```javascript
-$myDiv.html("Goodbye world!");
+$myDiv.text("Goodbye world!");
 ```
 
 There are three things about the example above that make jQuery easier to use:
@@ -176,9 +176,9 @@ If we had the following HTML page...
 ```html
 <html>
 <body>
-
-  <div id="container"></div>
-
+  	<div id="container">
+   		<h1>Hello World!</h1>
+	</div>	
 </body>
 </html>
 ```
@@ -195,7 +195,7 @@ If we want to add a new DIV that provides a nice greeting, our vanilla JavaScrip
 And in jQuery, it looks like this:
 
 ```javascript
-  $('#container').append("<p>").append("Hello simple insertion using jQuery chaining");
+  $('#container').append("<p>Hello simple insertion using jQuery chaining</p>");
 ```
 
 In the jQuery code example above, we first select the DIV with `id="container"``, then we append a new paragraph element (automatically created using core jQuery selector function), and then we append the text we want to insert to the new paragraph element we just created. In effect, the new HTML looks like this after the jQuery is run:
@@ -208,7 +208,7 @@ In the jQuery code example above, we first select the DIV with `id="container"``
   </div>
 ```
 
-You can [see this in action on JSBin](http://jsbin.com/rocabu/1/edit?)
+You can [see this in action on JSBin](http://jsbin.com/vixuqe/3/edit?html,js,output)
 
 
 #### Modifying Styles (CSS) Using jQuery
