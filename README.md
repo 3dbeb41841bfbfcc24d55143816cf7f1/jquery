@@ -176,9 +176,9 @@ If we had the following HTML page...
 ```html
 <html>
 <body>
-  	<div id="container">
-   		<h1>Hello World!</h1>
-	</div>	
+  <div id="container">
+    <h1>Hello World!</h1>
+  </div>	
 </body>
 </html>
 ```
