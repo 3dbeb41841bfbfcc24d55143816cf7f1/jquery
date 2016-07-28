@@ -337,3 +337,9 @@ $('img').show()
 - jQuery makes JavaScript super friendly and easy to write. a lot of websites are using jquery, soon you will too.  Remember that it's always good to know how to use what is called vanilla JavaScript, or JavaScript without a library.
 
 - Please spend some time reviewing [the documentation](https://api.jquery.com/).
+
+## Resources
+
+* [jQuery Cheatsheet](https://oscarotero.com/jquery/)
+* [jQuery’s Relevancy – There and Back Again](http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/)
+
