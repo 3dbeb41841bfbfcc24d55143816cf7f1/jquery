@@ -30,6 +30,8 @@ competencies: Front-end intro
 #### What is jQuery?
 jQuery is a 3rd-party library that is intended to make front-end development tasks — particularly those involving DOM selection and manipulation — easier, faster, and more fun.
 
+> Students: Spend a few minutes reading [jQuery’s Relevancy – There and Back Again](http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/)
+
 ### Javascript library
 What is a library?
 - Q: Has anybody used a JS library before?
@@ -42,9 +44,7 @@ Not the same thing as a Javascript framework.
 - Not only provides tools like a library does, but also defines the architecture of your code (e.g., syntax, folder structure). Basically, a set of rules you have to follow.
 - Examples: AngularJS, Ember.js.
 
-
 Sometimes "library" and "framework" are used interchangeably, but they are not the same. The difference will be more apparent as you get some experience with both as the course progresses.
-
 
 #### So, as a library, what does jQuery offer us?
 
@@ -55,7 +55,7 @@ jQuery helps us manipulate the DOM, allowing us to perform complex manipulations
 #### Installation
 jQuery is a client side library, which means we need to include it in our HTML. To do this, we have two options:
 
-- Reference Directly from a server: 
+- Reference Directly from a server:
 	- [jQuery's website](http://code.jquery.com/) `<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>`
 	- From a CDN (content delivery network) like [CDNJS](https://cdnjs.com/) or [Google Hosted Libraries](https://developers.google.com/speed/libraries/)  `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>`
 
@@ -178,7 +178,7 @@ If we had the following HTML page...
 <body>
   <div id="container">
     <h1>Hello World!</h1>
-  </div>	
+  </div>
 </body>
 </html>
 ```
@@ -290,7 +290,7 @@ $newDiv.html("Farm-to-table Godard roof party bespoke, fashion axe mustache viny
 // Set it's class to innerItem
 $newDiv.addClass("innerItem");
 
-// Append our new element  
+// Append our new element
 $('#outerContainer').append($newDiv);
 ```
 
